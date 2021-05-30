@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "522719535763",
+    "project_id": "track-your-electricity",
+    "storage_bucket": "track-your-electricity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522719535763:android:cff7d0e973a27d9c59e366",
+        "android_client_info": {
+          "package_name": "com.track.billelectricity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522719535763-q811r49aoik95988v43r041856u70uql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.track.billelectricity",
+            "certificate_hash": "85056eaa8d28baaf5803d2bd64415dfb0694e0ec"
+          }
+        },
+        {
+          "client_id": "522719535763-tvk5snjgui0i971flt9ijekua8lhodl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1BoNHATmWOFiR_8m_QOPOj9JM1UnQEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522719535763-tvk5snjgui0i971flt9ijekua8lhodl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

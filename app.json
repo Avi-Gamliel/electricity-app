@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "מעקב חשמל",
+    "slug": "track_electricity",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "description": "אפליקציה שתעזור לך לעקוב אחר הוצאות החשמל בצורה פשוטה נוחה וידידותית",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.track.billelectricity",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleSignIn": {
+          "apiKey": "AIzaSyAF56FL8IuPvJO7wBs5H5OHhcXHEu2pexs",
+          "certificateHash": "91BFE91D35E4ABBC50BA32470185B5A4AAC9E6B6"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
