@@ -30,8 +30,8 @@
       },
       "config": {
         "googleSignIn": {
-          "apiKey": "AIzaSyAF56FL8IuPvJO7wBs5H5OHhcXHEu2pexs",
-          "certificateHash": "91BFE91D35E4ABBC50BA32470185B5A4AAC9E6B6"
+          "apiKey": "*****",
+          "certificateHash": "*****"
         }
       }
     },
